@@ -20,7 +20,7 @@ description: "Class of 2027"
 owner_name: neil9674 
 github_username: neil9674
 github_repo: "neil_pages" 
-baseurl: "" 
+baseurl: "/neil_pages" 
 future: true
 
 # Exclude from Jekyll watch - these are processed by our conversion scripts
